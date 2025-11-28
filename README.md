@@ -46,8 +46,8 @@ Build Specs for my 370Z
 
 ## Exterior/Aero
     Top Secret Carbon front Lip
-    Morimoto LED Headlamps
-    Copart LED Tail Lamps (Red Lens)
+    Morimoto LED Headlamps (gen 2 incoming)
+    Morimoto LED Tail Lamps (gen 2)
     Diode Dynamics SSC2 SAE Fog Lights
     Trackspec Motorsports Center Hood Vents
     Verus Engineering Rear Diffuser
