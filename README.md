@@ -15,6 +15,9 @@ Build Specs for my 370Z
     Z1 Upgraded PCV hoses
     Z1 Polyurethane Engine mounts
     Z1 Polyurethane Transmission Mount
+    Z1 Street Pro Limited Slip Differential
+    Z1 Heavy Duty Rear Axles
+    Nissan 4.08 Final Drive
     Z1 Extended LSD Cover
     SPL Solid Differential Bushings
     Z1 Rear Subframe collars
@@ -37,17 +40,19 @@ Build Specs for my 370Z
     Z1 Master cylinder brace
     Polyurethane Exhaust Bushings
     Z1 Front Strut Brace
+
 ### Summer Wheel Setup
     Forgestar CF10 F:19x9.5 +22 | R:19x11 +22
     Bridgestone Potenza Sport F245/40R19 | R285/35R19
+
 ### Winter Wheel Setup
     Yokohama ADVAN RSIII F:18x9.5 +38 | R:18x9.5 +38 (20mm Spacer)
     Yokohama ADVAN Sport A/S+ 265/40R18
 
 ## Exterior/Aero
     Top Secret Carbon front Lip
-    Morimoto LED Headlamps (gen 2 incoming)
-    Morimoto LED Tail Lamps (gen 2)
+    Morimoto XRGB EVO LED Headlamps
+    Morimoto XB EVO LED Tail Lamps
     Diode Dynamics SSC2 SAE Fog Lights
     Trackspec Motorsports Center Hood Vents
     Verus Engineering Rear Diffuser
@@ -56,20 +61,17 @@ Build Specs for my 370Z
     Cut Rear Bumper
 
 ## Interior
-    ~~Braum Elite Series Leatherette Seats (Black)~~ Using Stock Seats for Interim
-    Planted Technologies Seat Brackets
     Kenwood Excelon DDX9905S Head Unit
     Viofo A129 Pro Duo Front and Rear Dash Cam
     Haltech iC-7 Dash
     WeatherTech Floormats with Custom Badging from WCLathewerks
     MCR (Matchless Crowd Racing) Shift Knob
     Sparco R383 Suede Steering Wheel
-    Opentop GT3 Door Handles (Incoming)
     
 ## Fluids
-    Engine: Motul 8100 POWER 5w30
+    Engine: Redline 5w30
     Transmission: MT-85 Red Line Gear Oil
-    Differential: 75W90 Red Line Differential Oil
+    Differential: 75W90 Motul 300LS
     Power Steering: Red Line D6 ATF
     Brakes: Motul 5.1
     Clutch: Motul RBF 600
