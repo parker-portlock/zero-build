@@ -32,9 +32,10 @@ Build Specs for my 370Z
     SPL F&R end-links
     SPL Rear Camber Arms
     Z1 front upper control arms
-    Z1 F&R slotted 2-piece rotors
+    Z1 Front slotted 2-piece rotors
+    Z1 Rear slotted 1-piece rotors
     Z1 Forged Street Brake Calipers
-    Z1 Ceramic Street brake pads (Street)
+    Paragon P3 Brake Pads (Street)
     Carbotech XP12F/XP10R brake pads (Track)
     Z1 Stainless Steel Brake Lines
     Z1 Master cylinder brace
@@ -42,12 +43,16 @@ Build Specs for my 370Z
     Z1 Front Strut Brace
 
 ### Summer Wheel Setup
-    Forgestar CF10 F:19x9.5 +22 | R:19x11 +22
-    Bridgestone Potenza Sport F245/40R19 | R285/35R19
+    Yokohama Advan GT Beyond F:19x9.5 +29 | R:19x10.5 +15
+    Bridgestone Potenza Sport F:245/40R19 | R:285/35R19
 
 ### Winter Wheel Setup
     Yokohama ADVAN RSIII F:18x9.5 +38 | R:18x9.5 +38 (20mm Spacer)
     Yokohama ADVAN Sport A/S+ 265/40R18
+
+### Track Wheel Setup
+    Forgestar CF10 F:19x9.5 +22 | R:19x11 +22
+    Tires: TBD
 
 ## Exterior/Aero
     Top Secret Carbon front Lip
@@ -62,11 +67,10 @@ Build Specs for my 370Z
 
 ## Interior
     Kenwood Excelon DDX9905S Head Unit
-    Viofo A129 Pro Duo Front and Rear Dash Cam
+    Viofo A329T Front, Telephoto, and Rear Dash Camera
     Haltech iC-7 Dash
-    WeatherTech Floormats with Custom Badging from WCLathewerks
-    MCR (Matchless Crowd Racing) Shift Knob
-    Sparco R383 Suede Steering Wheel
+    Sparco EVO L QRT Performance Seat (Driver)
+    Sparco EVO L Performance Seat (Passenger)
     
 ## Fluids
     Engine: Redline 5w30
