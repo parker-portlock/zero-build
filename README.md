@@ -73,7 +73,7 @@ Build Specs for my 370Z
     Sparco EVO L Performance Seat (Passenger)
     
 ## Fluids
-    Engine: Redline 5w30
+    Engine: Motul 8100 Power 5w40
     Transmission: MT-85 Red Line Gear Oil
     Differential: 75W90 Motul 300LS
     Power Steering: Red Line D6 ATF
